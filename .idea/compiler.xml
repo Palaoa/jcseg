@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="jcseg-analyzer" />
+        <module name="jcseg-core" />
+        <module name="jcseg-elasticsearch" />
+        <module name="jcseg-server" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="jcseg" target="1.8" />
+      <module name="jcseg-analyzer" target="1.8" />
+      <module name="jcseg-core" target="1.8" />
+      <module name="jcseg-elasticsearch" target="1.8" />
+      <module name="jcseg-server" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

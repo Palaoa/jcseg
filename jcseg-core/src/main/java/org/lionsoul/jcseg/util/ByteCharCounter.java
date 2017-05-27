@@ -13,6 +13,7 @@ public class ByteCharCounter
     /**
      * byte buffer only count the char ' '[=32] to char '~'[=126]
     */
+    // byte = 255
     private final byte[] buffer = new byte[95];
     
     public ByteCharCounter()
@@ -34,7 +35,8 @@ public class ByteCharCounter
         return true;
     }
     
-    public ByteCharCounter increase(char chr) {return increase(chr, 1);};
+    public ByteCharCounter increase(char chr) {return increase(chr, 1);}
+    // Problem val not judge 0 or minus.
     public ByteCharCounter increase(char chr, int val)
     {
         if ( isValidChar(chr) ) {
@@ -44,6 +46,7 @@ public class ByteCharCounter
     }
     
     public ByteCharCounter decrease(char chr) {return decrease(chr, 1);}
+    // Problem val unused.
     public ByteCharCounter decrease(char chr, int val)
     {
         int idx = chr - 32;
