@@ -1,7 +1,7 @@
 package org.lionsoul.jcseg.util;
 
 /**
- * array list for basic int data type to intead of ArrayList
+ * array list for basic int data type to instead of ArrayList
  * Well, this will save a lot work to Reopened and Unpacking
  * 
  * @author chenxin <chenxin619315@gmail.com>

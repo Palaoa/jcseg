@@ -1,0 +1,8 @@
+normal_ipv4 213.123.123.123 true
+3_parts 123.123.123 false
+5_parts 1.2.3.1.2 false
+wrong_char_in 123.123.123.-12 false
+part_too_large 123.12.256.12 false
+._adjacent 12..3.13 false
+part_zero_front 123.12.012.25 false
+only_zero 0.0.0.0. true

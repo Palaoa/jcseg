@@ -1,0 +1,8 @@
+normal_mail_address 123@123.com true
+normal_mail_address test@test123.com true
+not_have_@ testme.com false
+have_false_character __test@123.com false
+have_multi_@ test@test@test.com false
+not_have_. test@test false
+._at_end test@test. false
+._adjacent_@ test@>com false

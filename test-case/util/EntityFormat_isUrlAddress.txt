@@ -1,0 +1,12 @@
+normal_have_:// http://www.b.com true
+normal_no_:// www.b.com true
+normal_have_/_and_? www.b.com/abc?123 true
+before_://_wrong_chars ??://www.b.com false
+._adjacent www..com false
+not_in_domain_dic www.b.abc false
+._at_front_or_end .abc.com false
+.-_/_at_front www.b.com/_l?123 true
+.-_/_at_end www.b.com/_1_?123 false
+.-_/_adjacent www.b.com/__b?123 false
+/_?_adjacent www.b.com/?123 false
+after_?_empty www.b.com? false
