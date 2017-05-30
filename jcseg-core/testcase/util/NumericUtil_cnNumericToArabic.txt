@@ -1,0 +1,13 @@
+normal 三亿二千零六万七千五百六 320067560
+normal 一九九八 1998
+normal 二零一四 2014
+normal 九百九十万零三 9900003
+yi_wan_adjacent 九亿万零一 900000001
+front_empty 万五十 10050
+end_empty 五万 50000
+zero 零 0
+zero_adjacent 零零 0
+zero 亿万 100000000
+shenglue_ling 九百一 901
+shenglue_wan 八四四四二 84442
+int_max 二十一亿四七四八万三六四八 2147483648

@@ -1,0 +1,14 @@
+normal_y_m 2134.1 2134-1
+normal_y_m_d 1234.1.2 1234-1-2
+y_exceed_max_length 12345.12.11 false
+y_length_3 123.12.11 false
+y_zero_front 0123.11 fasle
+m_minus 1234.-1 false
+m_zero 1234.0 false
+m_zero_front 1234.02 1234-02
+m_exceed_12 1234.13.11 false
+d_minus 1234.11.-3 false
+d_zero 1234.5.0 false
+d_zero_front 1234.6.02 1234-6-02
+d_exceed_31 1236.5.32 false
+dilimitor_adjacent 1234..12 false
