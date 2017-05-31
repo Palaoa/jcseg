@@ -1,0 +1,6 @@
+only_value#≤‚ ‘####
+add_other_parameter#≤‚ ‘#23#ceshi#pos#entity?
+empty_value##23#ceshi#pos#entity
+length_one#≤‚#23#ce#pos#
+numerous_pos#≤‚ ‘#24#ceshi#pos1 pos2 pos3#entity
+same_pos#≤‚ ‘#25#ceshi#pos pos2 pos#entity
