@@ -5,7 +5,9 @@ import org.lionsoul.jcseg.tokenizer.core.IWord;
 import org.lionsoul.jcseg.tokenizer.Word;
 
 import java.io.BufferedReader;
+import java.io.FileInputStream;
 import java.io.FileReader;
+import java.io.InputStreamReader;
 
 import static org.junit.Assert.*;
 
@@ -21,13 +23,15 @@ public class WordTest {
         * need value, position, length, pinyin, part speech(many), entity
         * part speech only show one!
         * */
+        System.out.println(System.getProperty("user.dir"));
         StringBuffer sb;
-        FileReader fr;
+        InputStreamReader isr;
         BufferedReader br;
         String message, value, position, pinyin, entity, pos;
         sb = new StringBuffer("");
-        fr = new FileReader("testcase/tokenizer/Word_toString.txt");
-        br = new BufferedReader(fr);
+        FileInputStream fis = new FileInputStream("testcase/tokenizer/Word_toString.txt");
+        isr = new InputStreamReader(fis, "gbk");
+        br = new BufferedReader(isr);
         String temp;
         while((temp = br.readLine()) != null)
         {
