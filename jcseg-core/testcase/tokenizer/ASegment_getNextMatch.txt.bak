@@ -1,6 +1,6 @@
 normal#你好吗#0
 normal_with_multi_words#南京市长江大桥#0
-exceed_max_length_8#红色的天空布满云彩真是好看#2
+index_exceed_array#你好吗#3
 index_max#你好么#2
 contain_punctuation#你好啊，朋友#0
 contain_space#南京 市长江大桥#0
@@ -8,5 +8,5 @@ conatin_space_max_length#红色 的天空布满云彩真是好看#0
 non_word#啊啊啊啊啊啊啊啊啊啊啊#2
 empty##0
 word_split_by_space#你 好啊#0
-index_exceed_array#你好吗#3
+exceed_max_length_8#红色的天空布满云彩真是好看#2
 index_minus#你好啊#-2

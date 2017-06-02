@@ -20,8 +20,8 @@
       <file leaf-file-name="EntityFormatTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/jcseg-core/src/test/java/org/lionsoul/jcseg/util/EntityFormatTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1863">
-              <caret line="79" column="5" lean-forward="false" selection-start-line="79" selection-start-column="5" selection-end-line="79" selection-end-column="5" />
+            <state relative-caret-position="-49">
+              <caret line="139" column="5" lean-forward="false" selection-start-line="139" selection-start-column="5" selection-end-line="139" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -30,7 +30,7 @@
       <file leaf-file-name="JcsegTaskConfig.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/jcseg-core/src/main/java/org/lionsoul/jcseg/tokenizer/core/JcsegTaskConfig.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4617">
+            <state relative-caret-position="27">
               <caret line="184" column="0" lean-forward="false" selection-start-line="184" selection-start-column="0" selection-end-line="184" selection-end-column="0" />
               <folding />
             </state>
@@ -40,8 +40,8 @@
       <file leaf-file-name="WordTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/jcseg-core/src/test/java/org/lionsoul/jcseg/tokenizer/WordTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2133">
-              <caret line="88" column="36" lean-forward="false" selection-start-line="88" selection-start-column="36" selection-end-line="88" selection-end-column="36" />
+            <state relative-caret-position="356">
+              <caret line="33" column="44" lean-forward="false" selection-start-line="33" selection-start-column="14" selection-end-line="33" selection-end-column="44" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -49,11 +49,21 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="ChunkTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jcseg-core/src/test/java/org/lionsoul/jcseg/tokenizer/ChunkTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="186">
+              <caret line="19" column="25" lean-forward="false" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="SortTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/jcseg-core/src/test/java/org/lionsoul/jcseg/util/SortTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="540">
-              <caret line="26" column="10" lean-forward="false" selection-start-line="26" selection-start-column="10" selection-end-line="26" selection-end-column="10" />
+            <state relative-caret-position="329">
+              <caret line="43" column="5" lean-forward="true" selection-start-line="43" selection-start-column="5" selection-end-line="43" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -62,8 +72,8 @@
       <file leaf-file-name="ASegment.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/jcseg-core/src/main/java/org/lionsoul/jcseg/tokenizer/ASegment.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="24543">
-              <caret line="940" column="31" lean-forward="false" selection-start-line="940" selection-start-column="21" selection-end-line="940" selection-end-column="31" />
+            <state relative-caret-position="-253">
+              <caret line="1608" column="43" lean-forward="false" selection-start-line="1608" selection-start-column="21" selection-end-line="1608" selection-end-column="43" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -71,13 +81,43 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="IPushbackReader.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jcseg-core/src/main/java/org/lionsoul/jcseg/util/IPushbackReader.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Reader.java" pinned="false" current-in-tab="false">
+        <entry file="jar://D:/program/Java/jdk8/src.zip!/java/io/Reader.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="32">
+              <caret line="50" column="22" lean-forward="false" selection-start-line="50" selection-start-column="22" selection-end-line="50" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="ASegmentTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/jcseg-core/src/test/java/org/lionsoul/jcseg/tokenizer/ASegmentTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="437">
-              <caret line="28" column="32" lean-forward="true" selection-start-line="28" selection-start-column="32" selection-end-line="28" selection-end-column="32" />
+            <state relative-caret-position="1674">
+              <caret line="152" column="5" lean-forward="true" selection-start-line="152" selection-start-column="5" selection-end-line="152" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#245#275#0" expanded="true" />
+                <element signature="method#getNextMatchTest#0;class#ASegmentTest#0" expanded="false" />
+                <element signature="e#1752#1782#0" expanded="true" />
+                <element signature="method#nextCJKSentenceTest#0;class#ASegmentTest#0" expanded="false" />
+                <element signature="e#3021#3051#0" expanded="true" />
+                <element signature="method#getNextCJKWordTest#0;class#ASegmentTest#0" expanded="false" />
+                <element signature="e#4033#4063#0" expanded="true" />
+                <element signature="e#4203#4233#0" expanded="true" />
+                <element signature="e#4342#4372#0" expanded="true" />
+                <element signature="e#4485#4515#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -97,12 +137,18 @@
       <find>clone</find>
       <find>fre</find>
       <find>chunk</find>
-      <find>getnextmatch</find>
       <find>index</find>
-      <find>getNextMatch</find>
       <find>wordPool</find>
       <find>autoload</find>
       <find>getBest</find>
+      <find>getNextMatch</find>
+      <find>asegment</find>
+      <find>getnextmatch</find>
+      <find>nextCJKSentence</find>
+      <find>pushBack</find>
+      <find>readNext</find>
+      <find>reader</find>
+      <find>nextCJKsentence</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -428,7 +474,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.EntityFormatTest.isUrlAddress">
+  <component name="RunManager" selected="JUnit.ASegmentTest.nextCJKSentenceTest">
     <configuration default="false" name="WordTest.toStringTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -442,32 +488,6 @@
       <option name="PACKAGE_NAME" value="org.lionsoul.jcseg.tokenizer" />
       <option name="MAIN_CLASS_NAME" value="org.lionsoul.jcseg.tokenizer.WordTest" />
       <option name="METHOD_NAME" value="toStringTest" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-      <method />
-    </configuration>
-    <configuration default="false" name="ChunkTest.chunktestg" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="org.lionsoul.jcseg.tokenizer.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="jcseg-core" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="org.lionsoul.jcseg.tokenizer" />
-      <option name="MAIN_CLASS_NAME" value="org.lionsoul.jcseg.tokenizer.ChunkTest" />
-      <option name="METHOD_NAME" value="chunktestg" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -546,6 +566,32 @@
       <option name="PACKAGE_NAME" value="org.lionsoul.jcseg.tokenizer" />
       <option name="MAIN_CLASS_NAME" value="org.lionsoul.jcseg.tokenizer.ASegmentTest" />
       <option name="METHOD_NAME" value="getNextMatchTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="false" name="ASegmentTest.nextCJKSentenceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="org.lionsoul.jcseg.tokenizer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="jcseg-core" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="org.lionsoul.jcseg.tokenizer" />
+      <option name="MAIN_CLASS_NAME" value="org.lionsoul.jcseg.tokenizer.ASegmentTest" />
+      <option name="METHOD_NAME" value="nextCJKSentenceTest" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -948,18 +994,18 @@
     </configuration>
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="JUnit.WordTest.toStringTest" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.ChunkTest.chunktestg" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.NumericUtilTest.cnNumericToArabic" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.EntityFormatTest.isUrlAddress" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.ASegmentTest.getNextMatchTest" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.NumericUtilTest.cnNumericToArabic" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.EntityFormatTest.isUrlAddress" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.ASegmentTest.getNextMatchTest" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.ASegmentTest.nextCJKSentenceTest" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.EntityFormatTest.isUrlAddress" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.ASegmentTest.nextCJKSentenceTest" />
         <item index="1" class="java.lang.String" itemvalue="JUnit.ASegmentTest.getNextMatchTest" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.NumericUtilTest.cnNumericToArabic" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.WordTest.toStringTest" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.ChunkTest.chunktestg" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.EntityFormatTest.isUrlAddress" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.NumericUtilTest.cnNumericToArabic" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.WordTest.toStringTest" />
       </list>
     </recent_temporary>
   </component>
@@ -983,44 +1029,44 @@
       <workItem from="1496019470472" duration="3669000" />
       <workItem from="1496212515976" duration="11122000" />
       <workItem from="1496381480413" duration="5547000" />
-      <workItem from="1496395315530" duration="19000" />
+      <workItem from="1496395315530" duration="8627000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="ASegmentTest_getNextMatchTest - 2017.06.02 at 14h 28m 12s.xml">
+    <history-entry file="ASegmentTest_getNextMatchTest - 2017.06.02 at 18h 10m 57s.xml">
       <configuration name="ASegmentTest.getNextMatchTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ASegmentTest_getNextMatchTest - 2017.06.02 at 14h 31m 49s.xml">
+    <history-entry file="ASegmentTest_getNextMatchTest - 2017.06.02 at 18h 11m 43s.xml">
       <configuration name="ASegmentTest.getNextMatchTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ASegmentTest_getNextMatchTest - 2017.06.02 at 14h 32m 44s.xml">
+    <history-entry file="ASegmentTest_getNextMatchTest - 2017.06.02 at 18h 17m 16s.xml">
       <configuration name="ASegmentTest.getNextMatchTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ASegmentTest_getNextMatchTest - 2017.06.02 at 14h 32m 47s.xml">
+    <history-entry file="ASegmentTest_getNextMatchTest - 2017.06.02 at 18h 18m 22s.xml">
       <configuration name="ASegmentTest.getNextMatchTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ASegmentTest_getNextMatchTest - 2017.06.02 at 14h 34m 30s.xml">
+    <history-entry file="ASegmentTest_getNextMatchTest - 2017.06.02 at 18h 18m 48s.xml">
       <configuration name="ASegmentTest.getNextMatchTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ASegmentTest_getNextMatchTest - 2017.06.02 at 14h 34m 54s.xml">
+    <history-entry file="ASegmentTest_getNextMatchTest - 2017.06.02 at 18h 19m 17s.xml">
       <configuration name="ASegmentTest.getNextMatchTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ASegmentTest_getNextMatchTest - 2017.06.02 at 15h 03m 52s.xml">
-      <configuration name="ASegmentTest.getNextMatchTest" configurationId="JUnit" />
+    <history-entry file="ASegmentTest_nextCJKSentenceTest - 2017.06.02 at 19h 00m 41s.xml">
+      <configuration name="ASegmentTest.nextCJKSentenceTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="EntityFormatTest_isUrlAddress - 2017.06.02 at 14h 24m 44s.xml">
-      <configuration name="EntityFormatTest.isUrlAddress" configurationId="JUnit" />
+    <history-entry file="ASegmentTest_nextCJKSentenceTest - 2017.06.02 at 19h 01m 13s.xml">
+      <configuration name="ASegmentTest.nextCJKSentenceTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="EntityFormatTest_isUrlAddress - 2017.06.02 at 14h 35m 25s.xml">
-      <configuration name="EntityFormatTest.isUrlAddress" configurationId="JUnit" />
+    <history-entry file="ASegmentTest_nextCJKSentenceTest - 2017.06.02 at 19h 01m 28s.xml">
+      <configuration name="ASegmentTest.nextCJKSentenceTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="NumericUtilTest_cnNumericToArabic - 2017.06.02 at 13h 44m 45s.xml">
-      <configuration name="NumericUtilTest.cnNumericToArabic" configurationId="JUnit" />
+    <history-entry file="ASegmentTest_nextCJKSentenceTest - 2017.06.02 at 19h 01m 50s.xml">
+      <configuration name="ASegmentTest.nextCJKSentenceTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="37479000" />
+    <option name="totallyTimeSpent" value="46087000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
@@ -1029,13 +1075,14 @@
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32930845" sideWeight="0.48125" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32930845" sideWeight="0.43854168" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32930845" sideWeight="0.44479167" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32930845" sideWeight="0.56145835" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32930845" sideWeight="0.5552083" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1047,12 +1094,11 @@
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30845225" sideWeight="0.6203125" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30845225" sideWeight="0.6177083" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32930845" sideWeight="0.48541668" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -1088,13 +1134,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/jcseg-server/src/test/java/org/lionsoul/jcseg/server/ContextRouterTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/jcseg-core/src/test/java/org/lionsoul/jcseg/test/DicConverter.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
@@ -1268,17 +1307,32 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/jcseg-core/src/main/java/org/lionsoul/jcseg/util/IPushbackReader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/jcseg-core/src/main/java/org/lionsoul/jcseg/util/IStringBuffer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
           <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <element signature="e#332#333#0" expanded="false" />
+            <element signature="e#356#357#0" expanded="false" />
+            <element signature="e#3490#3491#0" expanded="false" />
+            <element signature="e#3543#3544#0" expanded="false" />
+            <element signature="e#4201#4202#0" expanded="false" />
+            <element signature="e#4254#4255#0" expanded="false" />
+            <element signature="e#4377#4378#0" expanded="false" />
+            <element signature="e#4428#4429#0" expanded="false" />
+            <element signature="e#4556#4557#0" expanded="false" />
+            <element signature="e#4608#4609#0" expanded="false" />
+            <element signature="e#4741#4742#0" expanded="false" />
+            <element signature="e#4794#4795#0" expanded="false" />
+            <element signature="e#4930#4931#0" expanded="false" />
+            <element signature="e#4984#4985#0" expanded="false" />
+            <element signature="e#5126#5127#0" expanded="false" />
+            <element signature="e#5154#5155#0" expanded="false" />
+            <element signature="e#7155#7156#0" expanded="false" />
+            <element signature="e#7182#7183#0" expanded="false" />
+            <element signature="e#7501#7502#0" expanded="false" />
+            <element signature="e#7550#7551#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1286,6 +1340,33 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="243">
           <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#3114#3115#0" expanded="false" />
+            <element signature="e#3168#3169#0" expanded="false" />
+            <element signature="e#3374#3375#0" expanded="false" />
+            <element signature="e#3434#3435#0" expanded="false" />
+            <element signature="e#3498#3499#0" expanded="false" />
+            <element signature="e#3544#3545#0" expanded="false" />
+            <element signature="e#3608#3609#0" expanded="false" />
+            <element signature="e#3654#3655#0" expanded="false" />
+            <element signature="e#3708#3709#0" expanded="false" />
+            <element signature="e#3741#3742#0" expanded="false" />
+            <element signature="e#3795#3796#0" expanded="false" />
+            <element signature="e#3828#3829#0" expanded="false" />
+            <element signature="e#5699#5700#0" expanded="false" />
+            <element signature="e#5743#5744#0" expanded="false" />
+            <element signature="e#7092#7093#0" expanded="false" />
+            <element signature="e#7140#7141#0" expanded="false" />
+            <element signature="e#12215#12216#0" expanded="false" />
+            <element signature="e#12258#12259#0" expanded="false" />
+            <element signature="e#12725#12726#0" expanded="false" />
+            <element signature="e#12766#12767#0" expanded="false" />
+            <element signature="e#14762#14763#0" expanded="false" />
+            <element signature="e#14815#14816#0" expanded="false" />
+            <element signature="e#14976#14977#0" expanded="false" />
+            <element signature="e#15021#15022#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1377,6 +1458,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="44" column="49" lean-forward="false" selection-start-line="44" selection-start-column="32" selection-end-line="44" selection-end-column="49" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1388,20 +1470,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/jcseg-core/src/test/java/org/lionsoul/jcseg/tokenizer/ChunkTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="186">
-          <caret line="19" column="25" lean-forward="false" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1071#1078#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/jcseg-core/src/main/java/org/lionsoul/jcseg/tokenizer/core/JcsegTaskConfig.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4617">
+        <state relative-caret-position="27">
           <caret line="184" column="0" lean-forward="false" selection-start-line="184" selection-start-column="0" selection-end-line="184" selection-end-column="0" />
           <folding />
         </state>
@@ -1409,34 +1480,58 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/jcseg-core/src/test/java/org/lionsoul/jcseg/util/EntityFormatTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1863">
-          <caret line="79" column="5" lean-forward="false" selection-start-line="79" selection-start-column="5" selection-end-line="79" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jcseg-core/src/test/java/org/lionsoul/jcseg/util/SortTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="26" column="10" lean-forward="false" selection-start-line="26" selection-start-column="10" selection-end-line="26" selection-end-column="10" />
+        <state relative-caret-position="-49">
+          <caret line="139" column="5" lean-forward="false" selection-start-line="139" selection-start-column="5" selection-end-line="139" selection-end-column="5" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/jcseg-core/src/test/java/org/lionsoul/jcseg/tokenizer/WordTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2133">
-          <caret line="88" column="36" lean-forward="false" selection-start-line="88" selection-start-column="36" selection-end-line="88" selection-end-column="36" />
+        <state relative-caret-position="356">
+          <caret line="33" column="44" lean-forward="false" selection-start-line="33" selection-start-column="14" selection-end-line="33" selection-end-column="44" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/jcseg-core/src/test/java/org/lionsoul/jcseg/tokenizer/ChunkTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="19" column="25" lean-forward="false" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jcseg-core/src/main/java/org/lionsoul/jcseg/util/IPushbackReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/program/Java/jdk8/src.zip!/java/io/Reader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="50" column="22" lean-forward="false" selection-start-line="50" selection-start-column="22" selection-end-line="50" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jcseg-core/src/test/java/org/lionsoul/jcseg/util/SortTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="329">
+          <caret line="43" column="5" lean-forward="true" selection-start-line="43" selection-start-column="5" selection-end-line="43" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/jcseg-core/src/main/java/org/lionsoul/jcseg/tokenizer/ASegment.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="24543">
-          <caret line="940" column="31" lean-forward="false" selection-start-line="940" selection-start-column="21" selection-end-line="940" selection-end-column="31" />
+        <state relative-caret-position="-253">
+          <caret line="1608" column="43" lean-forward="false" selection-start-line="1608" selection-start-column="21" selection-end-line="1608" selection-end-column="43" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1445,10 +1540,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/jcseg-core/src/test/java/org/lionsoul/jcseg/tokenizer/ASegmentTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="28" column="32" lean-forward="true" selection-start-line="28" selection-start-column="32" selection-end-line="28" selection-end-column="32" />
+        <state relative-caret-position="1674">
+          <caret line="152" column="5" lean-forward="true" selection-start-line="152" selection-start-column="5" selection-end-line="152" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#245#275#0" expanded="true" />
+            <element signature="method#getNextMatchTest#0;class#ASegmentTest#0" expanded="false" />
+            <element signature="e#1752#1782#0" expanded="true" />
+            <element signature="method#nextCJKSentenceTest#0;class#ASegmentTest#0" expanded="false" />
+            <element signature="e#3021#3051#0" expanded="true" />
+            <element signature="method#getNextCJKWordTest#0;class#ASegmentTest#0" expanded="false" />
+            <element signature="e#4033#4063#0" expanded="true" />
+            <element signature="e#4203#4233#0" expanded="true" />
+            <element signature="e#4342#4372#0" expanded="true" />
+            <element signature="e#4485#4515#0" expanded="true" />
           </folding>
         </state>
       </provider>

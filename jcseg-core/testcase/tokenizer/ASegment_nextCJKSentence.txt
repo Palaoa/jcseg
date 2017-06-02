@@ -1,0 +1,6 @@
+normal#你好啊
+split_by_space#你们还 好么
+split_by_punctuation#你们好，我是
+split_by_number#我有13个笔
+split_by_EN#我们去买CD吧
+empty_stream#
