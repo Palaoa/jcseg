@@ -16,7 +16,6 @@ import static sun.misc.Version.print;
  * Created by Palaoa on 2017/5/27.
  */
 public class EntityFormatTest {
-    private StringBuffer sb;
     private FileReader fr;
     private BufferedReader br;
     private String message, input, expected;
@@ -32,7 +31,6 @@ public class EntityFormatTest {
         // have @
         // before @ only number and letter
         // after '@' have '.', '.'not adjacent'.' or '@', between '@' and '.' only letter and number
-        sb = new StringBuffer("");
         fr = new FileReader("testcase/util/EntityFormat_isMailAddress.txt");
         br = new BufferedReader(fr);
         String temp;
@@ -62,7 +60,6 @@ public class EntityFormatTest {
         // from final '.' to front end in domain dic
         // path after / to ? "-_/." not adjacent, '.'not end, must be letter or number
 
-        sb = new StringBuffer("");
         fr = new FileReader("testcase/util/EntityFormat_isUrlAddress.txt");
         br = new BufferedReader(fr);
         String temp;
@@ -88,7 +85,7 @@ public class EntityFormatTest {
         // check the ip 4 parts
         // part check:
         // divided by length 1 2 3, length 3 need discuss
-        sb = new StringBuffer("");
+
         fr = new FileReader("testcase/util/EntityFormat_isIpAddress.txt");
         br = new BufferedReader(fr);
         String temp;
@@ -114,7 +111,7 @@ public class EntityFormatTest {
         // y 4 number
         // m len 1 or 2 (exist 09)
         // format y-m-d or y-m
-        sb = new StringBuffer("");
+
         fr = new FileReader("testcase/util/EntityFormat_isDate.txt");
         br = new BufferedReader(fr);
         String temp;
@@ -136,7 +133,7 @@ public class EntityFormatTest {
     @Test
     public void isTime() throws Exception {
         // format 12:45 or 12:45:12
-        sb = new StringBuffer("");
+
         fr = new FileReader("testcase/util/EntityFormat_isTime.txt");
         br = new BufferedReader(fr);
         String temp;

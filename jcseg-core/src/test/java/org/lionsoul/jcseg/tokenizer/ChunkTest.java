@@ -17,7 +17,7 @@ import static org.junit.Assert.*;
 public class ChunkTest {
 
     @Test
-    public void chunktestg() throws Exception
+    public void chunkTest() throws Exception
     {
         /*
         * average word length, variance, morphemic freedom, length(total)

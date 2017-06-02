@@ -23,12 +23,10 @@ public class WordTest {
         * need value, position, length, pinyin, part speech(many), entity
         * part speech only show one!
         * */
-        System.out.println(System.getProperty("user.dir"));
-        StringBuffer sb;
+
         InputStreamReader isr;
         BufferedReader br;
-        String message, value, position, pinyin, entity, pos;
-        sb = new StringBuffer("");
+        String message, value, position, pinyin, pos;
         FileInputStream fis = new FileInputStream("testcase/tokenizer/Word_toString.txt");
         isr = new InputStreamReader(fis, "gbk");
         br = new BufferedReader(isr);

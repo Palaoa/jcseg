@@ -2,6 +2,10 @@ package org.lionsoul.jcseg.util;
 
 import org.junit.Test;
 
+import java.io.BufferedReader;
+import java.io.FileInputStream;
+import java.io.InputStreamReader;
+
 import static org.junit.Assert.*;
 
 /**
@@ -14,10 +18,27 @@ public class NumericUtilTest {
         // 亿 万 千 百 十 零
         // 一 二 三 四 五 六 七 八 九
         //
-        String cnNum = "", message = "";
-        int expectedVal = 0;
+        int expectedVal;
+        //StringBuffer sb;
+        InputStreamReader isr;
+        BufferedReader br;
+        String message, input;
+        //sb = new StringBuffer("");
+        FileInputStream fis = new FileInputStream("testcase/util/NumericUtil_cnNumericToArabic.txt");
+        isr = new InputStreamReader(fis, "gbk");
+        br = new BufferedReader(isr);
+        String temp;
 
-        assertEquals(message, NumericUtil.cnNumericToArabic(cnNum, true), expectedVal);
+        while((temp = br.readLine()) != null)
+        {
+            int a = temp.indexOf(' ');
+            int b = temp.indexOf(' ', a + 1);
+            message = temp.substring(a);
+            input = temp.substring(a+1, b);
+            expectedVal = Integer.parseInt(temp.substring(b+1));
+            System.out.println(message + ", input: " + input + " output: " + NumericUtil.cnNumericToArabic(input, true) + " expected: " +expectedVal);
+        }
+        //assertEquals(message, NumericUtil.cnNumericToArabic(cnNum, true), expectedVal);
     }
 
 

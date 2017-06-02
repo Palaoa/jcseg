@@ -10,4 +10,4 @@ zero_adjacent 零零 0
 zero 亿万 100000000
 shenglue_ling 九百一 901
 shenglue_wan 八四四四二 84442
-int_max 二十一亿四七四八万三六四八 2147483648
+int_max 二十一亿四七四八万三六四七 21474836487

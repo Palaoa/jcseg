@@ -1032,7 +1032,7 @@ public abstract class ASegment implements ISegment
                             return isb.toString();
                         }
                     }
-                } 
+                }
                 /*check if it is a single name.*/
                 else if ( dic.match(ILexicon.CN_SNAME, w1.getValue()) ) {
                     isb.append(w1.getValue());
